@@ -1,4 +1,4 @@
-# React1 : Création d'un composant React
+# React
 
 ## Quêtes réalisées lors de ma formation à la Wild Code School Février 2019
 
